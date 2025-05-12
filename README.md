@@ -13,4 +13,7 @@ proyectos y mis intereses.
 ## Proyectos
 * [Lista de tus proyectos]
 ## Intereses
-* [Lista de tus intereses]
+* Programación
+* Electrónica
+* Música y arte
+* Psicología
