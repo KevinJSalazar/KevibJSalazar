@@ -24,7 +24,6 @@ Bienvenido a mi sitio personal. Aquí puedes encontrar información sobre mí, m
 - **Nombre**: Kevin Joel Salazar Rodríguez  
 - **Ocupación**: Estudiante  
 - **Residencia**: Guayaquil, Ecuador  
-- **Sitio web**: [https://kevinjsalazar.github.io/KevinJSalazar](https://kevinjsalazar.github.io/KevinJSalazar)
 
 ---
 
@@ -38,15 +37,20 @@ Bienvenido a mi sitio personal. Aquí puedes encontrar información sobre mí, m
 - **Tecnologías**: Java
 - 🔗 [Repositorio](https://github.com/KevinJSalazar/VentasTTV-POO-Proyecto)
 
+---
+
 ### 📊 Proyecto: Adivina en qué animal estoy pensando
 
 ![Captura Proyecto AVL](images/proyecto2_estructuras.png)
+<img src="images/proyecto2_estructuras.png" alt="Adivina quién" width="600"/>
 
 - **Descripción**: Un juego en Java en el que la máquina adivina un animal en el que estás pensando, haciendo uso de un árbol AVL para realizar la búsqueda. Además, cuenta con un modo de juego donde eres tú quien debe adivinar el animal elegido por la máquina. 
 - **Asignatura**: Estructuras de Datos
 - **Fecha de finalización**: 19 de agosto de 2024
 - **Tecnologías**: Java, estructuras de datos personalizadas
 - 🔗 [Repositorio](https://github.com/KevinJSalazar/Proyecto2-EstructurasDatos)
+
+---
 
 ### 🗃️ Proyecto: Gestión de base de datos de una página web
 
@@ -65,6 +69,9 @@ Bienvenido a mi sitio personal. Aquí puedes encontrar información sobre mí, m
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
