@@ -42,7 +42,7 @@ Bienvenido a mi sitio personal. Aquí puedes encontrar información sobre mí, m
 ### 📊 Proyecto: Adivina en qué animal estoy pensando
 
 ![Captura Proyecto AVL](images/proyecto2_estructuras.png)
-<img src="images/proyecto2_estructuras.png" alt="Adivina quién" width="600"/>
+<img src="images/proyecto2_estructuras.png" alt="Adivina quién" width="300"/>
 
 - **Descripción**: Un juego en Java en el que la máquina adivina un animal en el que estás pensando, haciendo uso de un árbol AVL para realizar la búsqueda. Además, cuenta con un modo de juego donde eres tú quien debe adivinar el animal elegido por la máquina. 
 - **Asignatura**: Estructuras de Datos
@@ -97,3 +97,4 @@ Bienvenido a mi sitio personal. Aquí puedes encontrar información sobre mí, m
 > Escanea el siguiente código para acceder a mi portafolio publicado:
 
 ![QR del sitio](images/qr.png)
+<img src="images/qr.png" alt="QR code" width="300"/>
