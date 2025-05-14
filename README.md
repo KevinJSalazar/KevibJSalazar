@@ -11,7 +11,7 @@ Bienvenido a mi sitio personal. Aquí puedes encontrar información sobre mí, m
 ## 📄 Contenido
 
 - [Información personal](#información-personal)
-- [Proyectos Destacados](#proyectos-destacados)
+- [Proyectos destacados](#proyectos-destacados)
 - [Tecnologías aprendidas](#tecnologías-aprendidas)
 - [Contacto](#contacto)
 - [Intereses](#intereses)
@@ -21,13 +21,13 @@ Bienvenido a mi sitio personal. Aquí puedes encontrar información sobre mí, m
 
 ## 👤 Información personal
 
-- **Nombre**: Kevin Joel Salazar Rodríguez  
+- **Nombre**: Kevin Joel Salazar Rodríguez 
 - **Ocupación**: Estudiante  
 - **Residencia**: Guayaquil, Ecuador  
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos destacados
 
 ### 📦 Proyecto: Sistema de compra y venta de vehículos
 
