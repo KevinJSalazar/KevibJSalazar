@@ -60,7 +60,7 @@ Bienvenido a mi sitio personal. Aquí puedes encontrar información sobre mí, m
 
 ---
 
-## 🛠️ Tecnologías aprendidas
+## 🛠️ Tecnologías aprendidas  
 
 ### 🖥️ Lenguajes de programación  
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -72,7 +72,7 @@ Bienvenido a mi sitio personal. Aquí puedes encontrar información sobre mí, m
 - ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
   Utilizado para desarrollar programas de consola, reforzando la lógica de programación, estructuras de control y uso de funciones.
 
-### 🎨 Frontend & UI  
+### 🎨 Interfaces y diseño  
 - ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white)  
   Utilizado para estructurar contenido web básico en proyectos de introducción al desarrollo web.
 
@@ -82,7 +82,7 @@ Bienvenido a mi sitio personal. Aquí puedes encontrar información sobre mí, m
 - ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
   Herramienta de diseño colaborativo para prototipar interfaces y planificar la experiencia de usuario (UX).
 
-### 🗄️ Bases de datos y formatos  
+### 🗄️ Bases de datos y manejo de datos  
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
   Sistema de gestión de bases de datos relacional empleado para almacenar y consultar información de las aplicaciones.
 
