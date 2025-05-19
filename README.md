@@ -39,7 +39,7 @@ Bienvenido a mi sitio personal. Aquí puedes encontrar información sobre mí, m
 
 ---
 
-### 📊 Proyecto: Adivina en qué animal estoy pensando
+### 📊 Proyecto: Juego de adivinación de animales
 
 - **Descripción**: Aplicación interactiva de escritorio desarrollada en Java con JavaFX y XML, que implementa una variación del clásico juego de las 20 preguntas, utilizando un árbol AVL para almacenar y organizar los animales disponibles en el sistema. La información de las preguntas y los animales se gestiona mediante archivos de texto plano. El usuario piensa en un animal y responde una cantidad de preguntas definida previamente. Según las respuestas (“sí”, “no” o “no sé”), la máquina recorre el árbol y trata de adivinar el animal. Al final, muestra el resultado o posibles coincidencias. Incluye un modo alternativo donde el usuario intenta adivinar un animal aleatorio seleccionado por el sistema, con un número de preguntas limitado y una opción final para revelar la respuesta.
 
